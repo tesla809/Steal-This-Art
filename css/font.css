@@ -1,0 +1,14 @@
+/***Font.css***/
+
+@font-face {
+    font-family: 'pwyummydonutsmedium';
+    src: url('type/pwyummydonuts-webfont.eot');
+    src: url('type/pwyummydonuts-webfont.eot?#iefix') format('embedded-opentype'),
+         url('type/pwyummydonuts-webfont.woff2') format('woff2'),
+         url('type/pwyummydonuts-webfont.woff') format('woff'),
+         url('type/pwyummydonuts-webfont.ttf') format('truetype'),
+         url('type/pwyummydonuts-webfont.svg#pwyummydonutsmedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
